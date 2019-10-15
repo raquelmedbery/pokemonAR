@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="staravia" size="10.000000 14.333333" />
+    <ImageTarget name="shuppet" size="10.000000 14.211957" />
+    <ImageTarget name="skitty" size="10.000000 13.767705" />
+    <ImageTarget name="pokemon_card_front" size="10.000000 14.400324" />
+  </Tracking>
+</QCARConfig>
